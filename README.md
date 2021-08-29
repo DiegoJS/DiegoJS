@@ -12,12 +12,14 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Python](https://img.shields.io/badge/-Python-%23282C34?style=flat-square&logo=python)
+![Php](https://img.shields.io/badge/-Php-%23F7DF1C?style=flat-square&logo=php)
+
+- 👯 I’m looking to collaborate on open source projects
 
 <!--
 **DiegoJS/DiegoJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -30,3 +32,4 @@ Here are some ideas to get you started:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoJS&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
