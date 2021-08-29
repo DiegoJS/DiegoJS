@@ -11,8 +11,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Python](https://img.shields.io/static/v1?label=Python&message=python&color=success)
+![Python](https://img.shields.io/badge/-Python-%23282C34?style=flat-square&logo=python)
 
 <!--
 **DiegoJS/DiegoJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
