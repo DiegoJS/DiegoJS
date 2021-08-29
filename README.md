@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 - 😄
-https://visitor-badge.glitch.me/badge?page_id=DiegoJS.visitor-badge
+<img src="https://visitor-badge.glitch.me/badge?page_id=DiegoJS.visitor-badge" />
