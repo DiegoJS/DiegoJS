@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi my name is Diego, i'm Software Developer 👋
 
 <!--
 **DiegoJS/DiegoJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
