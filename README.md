@@ -1,8 +1,8 @@
 ### Hi!, my name is Diego, i'm Software Developer 👋
 
 
-- 🔭 I’m currently working on Ideasdigitales
-Bach. Systems and Computer Engineering and Programmer Analyst with more than 6 years of experience in the implementation of digital solutions (web and mobile platforms), for companies and enterprises using Agile frameworks.
+- 🔭 I am currently working independently
+- 👯 I’m Bach. Systems and Computer Engineering and Programmer Analyst with more than 6 years of experience in the implementation of digital solutions (web and mobile platforms), for companies and enterprises using Agile frameworks.
 SKILLS: PHP, Python, Javascript, Typescript, Databases. 
 
 <!--
