@@ -4,16 +4,24 @@
 - 🔭 I am currently working independently
 - 👯 I’m Bach. Systems and Computer Engineering and Programmer Analyst with more than 6 years of experience in the implementation of digital solutions (web and mobile platforms), for companies and enterprises using Agile frameworks.
 - ⚡ SKILLS: PHP, Python, Javascript, Typescript, Databases. 
-
+  - Frontend: <br />
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Python](https://img.shields.io/badge/-Python-%23282C34?style=flat-square&logo=python)
-![Php](https://img.shields.io/badge/-Php-%23F7DF1C?style=flat-square&logo=php)
 
+  - Backend: <br />
+![Django](https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=django)
+![Php](https://img.shields.io/badge/-Php-%23282C34?style=flat-square&logo=php)
+![ASP](https://img.shields.io/badge/-.ASP-%23512BD4?style=flat-square&logo=.net)
+![SoringBoot](https://img.shields.io/badge/-.ASP-%23282C34?style=flat-square&logo=spring-boot)
+
+
+  - Backend: <br />
+![Mysql](https://img.shields.io/badge/-Mysql-%23f89c0e?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23282C34?style=flat-square&logo=postgresql)
 - 👯 I’m looking to collaborate on open source projects
 
 <!--
