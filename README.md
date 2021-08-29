@@ -3,7 +3,8 @@
 
 - 🔭 I am currently working independently
 - 👯 I’m Bach. Systems and Computer Engineering and Programmer Analyst with more than 6 years of experience in the implementation of digital solutions (web and mobile platforms), for companies and enterprises using Agile frameworks.
-- ⚡ SKILLS: PHP, Python, Javascript, Typescript, Databases. 
+- ⚡ SKILLS: PHP, Python, Javascript, Typescript, Databases.
+
   - Frontend: <br />
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -18,10 +19,14 @@
 ![ASP](https://img.shields.io/badge/-.ASP-%23512BD4?style=flat-square&logo=.net)
 ![SoringBoot](https://img.shields.io/badge/-.ASP-%23282C34?style=flat-square&logo=spring-boot)
 
-
-  - Backend: <br />
-![Mysql](https://img.shields.io/badge/-Mysql-%23f89c0e?style=flat-square&logo=mysql)
+  - Database: <br />
+![Mysql](https://img.shields.io/badge/-Mysql-%23282C34?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23282C34?style=flat-square&logo=postgresql)
+
+  - Mobile: <br />
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Ionic](https://img.shields.io/badge/-Ionic-%23282C34?style=flat-square&logo=ionic)
+
 - 👯 I’m looking to collaborate on open source projects
 
 <!--
