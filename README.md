@@ -17,7 +17,7 @@
   - Backend: <br />
 ![Php](https://img.shields.io/badge/-Php-%23282C34?style=flat-square&logo=php)
 ![Django](https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=django)
-![SpringBoot](https://img.shields.io/badge/-.ASP-%23282C34?style=flat-square&logo=spring-boot)
+![SpringBoot](https://img.shields.io/badge/-.SPRING-%23282C34?style=flat-square&logo=spring-boot)
 
   - Database: <br />
 ![Mysql](https://img.shields.io/badge/-Mysql-%23282C34?style=flat-square&logo=mysql)
