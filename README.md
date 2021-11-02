@@ -15,9 +15,8 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
 
   - Backend: <br />
-![Django](https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=django)
 ![Php](https://img.shields.io/badge/-Php-%23282C34?style=flat-square&logo=php)
-![ASP](https://img.shields.io/badge/-.ASP-%23512BD4?style=flat-square&logo=.net)
+![Django](https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=django)
 ![SpringBoot](https://img.shields.io/badge/-.ASP-%23282C34?style=flat-square&logo=spring-boot)
 
   - Database: <br />
