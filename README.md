@@ -3,7 +3,7 @@
 ### Hi!, my name is Diego, i'm Software Developer 👋
 
 - 🔭 I am currently working independently
-- 👯 I’m Bach. Software Engineering and Programmer Analyst with more than 6 years of experience in the implementation of digital solutions (web and mobile platforms), for companies and enterprises using Agile frameworks.
+- 👯 I’m. Software Engineer and Programmer Analyst with more than 6 years of experience in the implementation of digital solutions (web and mobile platforms), for companies and enterprises using Agile frameworks.
 - ⚡ SKILLS: PHP, Python, Javascript, Typescript, Databases.
 
   - Frontend: <br />
@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoJS&layout=compact)](https://github.com/DiegoJS/github-readme-stats) <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DiegoJS&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-
+-->
 
 - 😄Thank you for your visit
 <img src="https://visitor-badge.glitch.me/badge?page_id=DiegoJS.visitor-badge" />
