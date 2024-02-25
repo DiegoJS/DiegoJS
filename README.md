@@ -48,4 +48,3 @@ Here are some ideas to get you started:
 -->
 
 - 😄Thank you for your visit
-<img src="https://visitor-badge.glitch.me/badge?page_id=DiegoJS.visitor-badge" />
